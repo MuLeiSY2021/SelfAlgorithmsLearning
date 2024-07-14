@@ -1,0 +1,7 @@
+# ninja log v5
+5	480	7400914201068564	CMakeFiles/SelfAlgo.dir/leetcode/2786_Visit_Array_Positions_to_Maximize_Score.cpp.obj	fa280a5c46addd0b
+447	626	7401369474189931	SelfAlgo.exe	22b336182944176
+4	428	7401361418937570	CMakeFiles/SelfAlgo.dir/leetcode/dp/2786_Visit_Array_Positions_to_Maximize_Score.cpp.obj	7cb8a20835d86a10
+5	390	7401367930733833	CMakeFiles/SelfAlgo.dir/test.cpp.obj	96f601e459a8da0b
+4	446	7401369472936506	CMakeFiles/SelfAlgo.dir/leetcode/dp/42_Trapping_Rain_Water.cpp.obj	c1fad20d80db88c6
+2	320	7426449814576066	build.ninja	9a5194873fee40c7
