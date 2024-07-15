@@ -36,10 +36,10 @@ public:
         return total;
     }
 };
-
-int main() {
-    Solution s;
-    vector<int> t=vector{4,2,3};
-    std::cout << s.trap(t);
-    //55
-}
+//
+// int main() {
+//     Solution s;
+//     vector<int> t=vector{4,2,3};
+//     std::cout << s.trap(t);
+//     //55
+// }
