@@ -7,5 +7,7 @@ add_executable(SelfAlgo leetcode/dp/2786_Visit_Array_Positions_to_Maximize_Score
         leetcode/dp/42_Trapping_Rain_Water.cpp
         leetcode/dp/804_Max_Increase_to_Keep_City_Skyline.cpp
         leetcode/dp/44_Wildcard_Matching.cpp
+        leetcode/array/88_Merge_Sorted_Array.cpp
+        leetcode/array/80_Remove_Duplicates_from_Sorted_Array_II.cpp
         #        test.cpp
 )

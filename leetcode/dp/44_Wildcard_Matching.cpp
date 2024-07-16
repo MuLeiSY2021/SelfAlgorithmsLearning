@@ -41,8 +41,3 @@ public:
 };
 
 
-int main() {
-    Solution s;
-    std::cout << s.isMatch("","a");
-    //55
-}
