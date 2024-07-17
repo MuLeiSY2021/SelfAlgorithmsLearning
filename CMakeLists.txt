@@ -9,5 +9,10 @@ add_executable(SelfAlgo leetcode/dp/2786_Visit_Array_Positions_to_Maximize_Score
         leetcode/dp/44_Wildcard_Matching.cpp
         leetcode/array/88_Merge_Sorted_Array.cpp
         leetcode/array/80_Remove_Duplicates_from_Sorted_Array_II.cpp
+        leetcode/array/169_Majority_Element.cpp
+        leetcode/array/189_Rotate_Array.cpp
+        leetcode/array/189_Rotate_Array.cpp
+        leetcode/array/189_Rotate_Array.cpp
+        leetcode/array/121_Best_Time_to_Buy_and_Sell_Stock.cpp
         #        test.cpp
 )
