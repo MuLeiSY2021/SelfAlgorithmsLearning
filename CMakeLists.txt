@@ -14,5 +14,18 @@ add_executable(SelfAlgo leetcode/dp/2786_Visit_Array_Positions_to_Maximize_Score
         leetcode/array/189_Rotate_Array.cpp
         leetcode/array/189_Rotate_Array.cpp
         leetcode/array/121_Best_Time_to_Buy_and_Sell_Stock.cpp
+        leetcode/array/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp
+        leetcode/array/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp
+        leetcode/array/55_Jump_Game.cpp
+        leetcode/array/55_Jump_Game.cpp
+        leetcode/array/45_Jump_Game_II.cpp
+        leetcode/array/45_Jump_Game_II.cpp
+        "leetcode/array/380_Insert_Delete_GetRandom_O(1).cpp"
+        "leetcode/array/380_Insert_Delete_GetRandom_O(1).cpp"
+        leetcode/array/238_Product_of_Array_Except_Self.cpp
+        leetcode/array/134_Gas_Station.cpp
+        leetcode/array/134_Gas_Station.cpp
+        leetcode/array/135_Candy.cpp
+        leetcode/array/135_Candy.cpp
         #        test.cpp
 )

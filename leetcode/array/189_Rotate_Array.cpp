@@ -26,10 +26,10 @@ public:
         }
     }
 };
-
-int main() {
-    Solution s;
-    vector<int> v1 = {1,2};
-    s.rotate(v1, 1);
-    //55
-}
+//
+// int main() {
+//     Solution s;
+//     vector<int> v1 = {1,2};
+//     s.rotate(v1, 1);
+//     //55
+// }
