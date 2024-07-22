@@ -36,9 +36,9 @@ public:
     }
 };
 
-int main() {
-    Solution s;
-    vector<int> v1 = {3,4,3,2,5,4,3};
-    s.jump(v1);
-    //55
-}
+// int main() {
+//     Solution s;
+//     vector<int> v1 = {3,4,3,2,5,4,3};
+//     s.jump(v1);
+//     //55
+// }

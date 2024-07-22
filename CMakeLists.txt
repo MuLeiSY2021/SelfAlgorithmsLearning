@@ -27,5 +27,9 @@ add_executable(SelfAlgo leetcode/dp/2786_Visit_Array_Positions_to_Maximize_Score
         leetcode/array/134_Gas_Station.cpp
         leetcode/array/135_Candy.cpp
         leetcode/array/135_Candy.cpp
+        leetcode/array/151_Reverse_Words_in_a_String.cpp
+        leetcode/array/151_Reverse_Words_in_a_String.cpp
+        leetcode/array/13_Roman_to_Integer.cpp
+        leetcode/array/13_Roman_to_Integer.cpp
         #        test.cpp
 )
